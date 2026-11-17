@@ -1,0 +1,16 @@
+{
+  "name": "retro-bowl-modded-ios",
+  "version": "1.0.0",
+  "description": "iOS wrapper for Retro Bowl Modded (personal use only)",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

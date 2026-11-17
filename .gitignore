@@ -1,0 +1,5 @@
+node_modules/
+ios/
+out-ipa/
+*.ipa
+.DS_Store

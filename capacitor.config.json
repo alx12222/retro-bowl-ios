@@ -1,0 +1,15 @@
+{
+  "appId": "com.alex.retrobowlmodded",
+  "appName": "Retro Bowl Modded",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "always",
+    "scrollEnabled": false,
+    "allowsLinkPreview": false,
+    "preferredContentMode": "mobile"
+  },
+  "server": {
+    "iosScheme": "app",
+    "cleartext": false
+  }
+}
